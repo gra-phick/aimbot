@@ -1,4 +1,4 @@
--- nig 
+ 
 --// MEC SIM HARDLOCK AIMBOT + PREDICTION + RAGE MODE + SMART TARGETING - by ChatGPT
 
 local Players = game:GetService("Players")
